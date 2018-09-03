@@ -1,0 +1,60 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+header, .main, footer {
+	width: 90%;
+	margin: 20px auto;
+	max-width: 1500px;
+}
+
+header {
+	background-color: #7081FF
+}
+
+.logo img {
+	width: 50%;
+	margin: auto;
+	display: block;
+	padding: 20px;
+}
+
+.menu{
+	background-color: #427DFF;
+	overflow: hidden;
+}  
+
+.menu ul {
+	list-style: none;
+}
+
+.menu ul li {
+	float: left;
+}
+
+.menu ul li a {
+	padding: 10px 20px;
+	display: block;
+	color: white;
+	text-decoration: none;
+}
+
+.menu ul li a:hover{
+	background-color: #1862FF;
+}
+
+.main .articulos {
+	width: 68.5%;
+	float: left;
+	margin-right: 1.5%;
+}
+
+.lateral {
+	background: #2392FF;
+	float: left;
+	width: 30%;
+	padding: 20px;
+	margin-bottom: 20px;
+}

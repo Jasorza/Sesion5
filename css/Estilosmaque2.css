@@ -58,3 +58,16 @@ header {
 	padding: 20px;
 	margin-bottom: 20px;
 }
+
+.main .articulos article {
+	background: #1C72C7;
+	margin-bottom: 20px;
+}
+
+footer {
+	background: #1FB4C7;
+	color: white;
+	text-align: center;
+	clear: both;
+	padding: 10px 5px;
+}

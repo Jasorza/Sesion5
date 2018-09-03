@@ -1,0 +1,35 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+#caja {
+	background-color: black;
+	padding: 5px;
+	width: 80%;
+	margin: 0 auto;
+	
+}
+
+#izq {
+	background-color: red;
+	float: left;
+	width:  20%;
+}
+
+#centro {
+	background-color: green;
+	float: left;
+	width:  60%;
+}
+
+#dere {
+	background-color: blue;
+	float: left;
+	width:  20%;
+}
+
+#clear {
+	clear: both;
+}
